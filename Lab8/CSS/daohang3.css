@@ -1,0 +1,37 @@
+ul{
+	list-style-type: none;
+	text-indent: 2em;
+	text-align: center;
+	height: 50px;
+	width: 2000px;
+	padding-top:50px;
+	padding-left: 270px;
+}
+li{
+	float: left;
+}
+a{
+	color: #727272;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.menu{
+	background-image: url(../image/bg.gif);
+	width: 2000px;
+	height: 100px;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #b9f605;
+}
+.menu a{
+	color:white;
+}
+.menu a:hover{
+	color:#b9f605;
+	text-decoration: none;
+}
+.menu .special{
+	color:#fdb306;
+}

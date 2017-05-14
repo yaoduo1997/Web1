@@ -1,0 +1,32 @@
+*{
+		margin: 0px;
+		padding: 0px;
+}
+.menu{
+	background: url(../image/bj.jpg) no-repeat;
+	height: 381px;
+}
+ul{
+	list-style-type: none;
+	color: gray;
+}
+#one{
+	background: url(../image/header.png) no-repeat;
+	width: 175px;
+	height: 65px;
+}
+#two{
+	background: url(../image/lvbiaoti.png) no-repeat;
+	margin-left: 20px;
+	height: 36px;
+	padding-top: 10px;
+	padding-left: 50px;
+}
+.one{
+	background: url(../image/baibiaoti.png) no-repeat;
+	margin-left: 20px;
+	height: 36px;
+	padding-top: 10px;
+	padding-left: 50px;
+}
+
